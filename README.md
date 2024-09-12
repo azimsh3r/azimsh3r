@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Azimjon Akhmadjonov, a backend-focused Software Engineer with experience in Java, Kotlin, and Spring Framework. <br>I'm studying Computer Science at Constructor University and have developed scalable solutions in various projects. <br>Check out my work below!
+Hi, I'm Azimjon Akhmadjonov, a backend-focused Software Engineer with experience in various programming languages and technologies. <br>I'm studying Computer Science at Constructor University and have developed scalable solutions in various projects. <br>Check out my work below!
 
 
 ## 🌐 Socials:
