@@ -1,5 +1,19 @@
 # 💫 About Me:
 Hi, I'm Azimjon Akhmadjonov, a backend-focused Software Engineer with experience in various programming languages and technologies. <br>I'm studying Computer Science at Constructor University and have developed scalable solutions in various projects. <br>Check out my work below!
+```kotlin
+val me = developer {
+    about {
+        name = "Azimjon Akhmadjonov"
+        role = Software Developer
+        university = Constructor University
+    }
+    tech("Kotlin, Java, Spring")
+    links {
+        linkedin = "https://www.linkedin.com/in/azimjon-akhmadjonov/"
+        email = "azimjon.works@gmail.com"
+    }
+}
+```
 
 
 ## 🌐 Socials:
