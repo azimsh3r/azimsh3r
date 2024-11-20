@@ -7,7 +7,7 @@ val me = developer {
         role = Software Developer
         university = Constructor University
     }
-    tech("Kotlin, Java, Spring")
+    tech("C, C++, Java, Kotlin)
     links {
         linkedin = "https://www.linkedin.com/in/azimjon-akhmadjonov/"
         email = "azimjon.works@gmail.com"
