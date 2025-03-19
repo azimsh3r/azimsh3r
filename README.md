@@ -14,11 +14,6 @@ val me = developer {
 }
 ```
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azimsh3r&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=azimsh3r&theme=dark&hide_border=true)<br/>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azimsh3r&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
