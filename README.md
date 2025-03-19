@@ -4,7 +4,6 @@ Hi, I'm Azimjon Akhmadjonov, a backend-focused Software Engineer with experience
 val me = developer {
     about {
         name = "Azimjon Akhmadjonov"
-        role = Software Developer
         university = Constructor University
     }
     tech("Java, Kotlin, Python, C++)
