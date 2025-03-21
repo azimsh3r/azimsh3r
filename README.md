@@ -1,12 +1,23 @@
 # 💫 About Me:
-Hi, I'm Azimjon Akhmadjonov, a backend-focused Software Engineer with experience in various programming languages and technologies. <br>I'm studying Computer Science at Constructor University and have developed scalable solutions in various projects. <br>Check out my work below!
+
+Hi, I'm **Azimjon Akhmadjonov**, a backend-focused **Software Engineer** passionate about building scalable and efficient systems. I'm currently studying **Computer Science** at **Constructor University** and have experience working with various programming languages and technologies. 
+
+### 🚀 Tech Stack:
+- **Languages:** Java, Kotlin, Python, C++
+- **Backend:** Spring Boot, Ktor, Redis, Kafka
+- **DevOps:** Docker, Kubernetes, CI/CD
+
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/azimjon-akhmadjonov/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:azimjon.works@gmail.com)
+
 ```kotlin
 val me = developer {
     about {
         name = "Azimjon Akhmadjonov"
-        university = Constructor University
+        university = "Constructor University"
     }
-    tech("Java, Kotlin, Python, C++)
+    tech("Java", "Kotlin", "Python", "C++")
     links {
         linkedin = "https://www.linkedin.com/in/azimjon-akhmadjonov/"
         email = "azimjon.works@gmail.com"
@@ -14,12 +25,5 @@ val me = developer {
 }
 ```
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azimsh3r&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=azimsh3r&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
