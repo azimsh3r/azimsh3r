@@ -4,7 +4,7 @@ Hi, I'm **Azimjon Akhmadjonov**, a backend-focused **Software Engineer** passion
 
 ### 🚀 Tech Stack:
 - **Languages:** Java, Kotlin, Python, C++
-- **Backend:** Spring Boot, Ktor, Flask Redis, Kafka
+- **Backend:** Spring Boot, Ktor, Flask, Redis, Kafka
 - **DevOps:** Docker, Kubernetes, CI/CD
 - **Tools & Systems:** IntelliJ Platform SDK, Elasticsearch, WebSockets, Gradle & Maven
 
