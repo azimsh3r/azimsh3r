@@ -1,13 +1,25 @@
-# 💫 About Me:
+# 💫 About Me
 
-Hi, I'm **Azimjon Akhmadjonov**, a **Software Engineer** with a focus on building scalable and efficient systems. I'm currently studying **Computer Science** at **Constructor University** and have hands-on experience with a variety of programming languages and technologies, with a particular interest in backend development.
+Hi, I'm **Azimjon Akhmadjonov** — a Software Engineer focused on building **scalable and efficient backend systems**.  
+🎓 Computer Science student @ Constructor University.  
+💼 Currently working as a **Software Engineer (Working Student) @ JetBrains**.  
+💡 Passionate about backend development, distributed systems, and writing clean, maintainable code.
 
-### 🚀 Tech Stack:
-- **Languages:** Java, Kotlin, Python, C++
-- **Backend:** Spring Boot, Ktor, Flask
-- **Frontend:** HTML, CSS, JavaScript
-- **Data Analysis:** Pandas, Numpy, Matplotlib
-- **DevOps & Tools:** Docker, Kubernetes, CI/CD, GitHub Actions, Git, Redis, Kafka
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+- Java, Kotlin, Python, C++
+
+**Backend:**  
+- Spring Boot, Ktor, Flask
+
+**Databases & Tools:**  
+- PostgreSQL, Redis, Kafka
+- Docker, Kubernetes, CI/CD, GitHub Actions, Git
+
+---
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/azimjon-akhmadjonov/)
