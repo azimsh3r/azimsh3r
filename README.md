@@ -1,23 +1,18 @@
-# 💫 About Me
+## 💫 About Me
 
-Hi, I'm **Azimjon Akhmadjonov** — a Software Engineer focused on building **scalable and efficient backend systems**.  
-🎓 Computer Science student @ Constructor University.  
-💼 Currently working as a **Software Engineer (Working Student) @ JetBrains**.  
-💡 Passionate about backend development, distributed systems, and writing clean, maintainable code.
+Hi, I'm **Azimjon Akhmadjonov** — a Software Engineer passionate about **distributed systems, language tooling, and backend architecture**.
+
+🎓 Computer Science student @ Constructor University  
+💼 Working Student @ JetBrains — **PyCharm Code Insight Team**  
+💡 Interested in compilers, type inference, and scalable backend systems.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-**Languages:**  
-- Java, Kotlin, Python, C++
-
-**Backend:**  
-- Spring Boot, Ktor, Flask
-
-**Databases & Tools:**  
-- PostgreSQL, Redis, Kafka
-- Docker, Kubernetes, CI/CD, GitHub Actions, Git
+**Languages:** Python, Java, Kotlin, Go  
+**Systems & Tools:** IntelliJ Platform, Type Systems, Static Analysis, Docker, Kubernetes, CI/CD  
+**Additional Experience:** Spring Boot, Ktor, Flask, PostgreSQL, Redis, Kafka
 
 ---
 
